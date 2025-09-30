@@ -1,0 +1,143 @@
+LOGGER URUCHOMIONY
+[2025-05-01 00:41:55] Dział pracownika Recepcja utworzony
+[2025-05-01 00:41:55] Dział pracownika Obliczenia utworzony
+[2025-05-01 00:41:55] Dział pracownika Architekci utworzony
+[2025-05-01 00:41:55] Dział pracownika Trenerzy utworzony
+[2025-05-01 00:41:55] Pracownik M1000 Zbigniew Drzewski został utworzony
+[2025-05-01 00:41:55] Pracownik M1000 Zbigniew Drzewski dodany do działu Recepcja
+[2025-05-01 00:41:55] Pracownik M1001 Karol Wiśniewski został utworzony
+[2025-05-01 00:41:55] Pracownik M1001 Karol Wiśniewski dodany do działu Obliczenia
+[2025-05-01 00:41:55] Pracownik M1002 Katarzyna Łęcka został utworzony
+[2025-05-01 00:41:55] Pracownik M1002 Katarzyna Łęcka dodany do działu Architekci
+[2025-05-01 00:41:55] Pracownik M1003 Antoni Silny został utworzony
+[2025-05-01 00:41:55] Pracownik M1003 Antoni Silny dodany do działu Trenerzy
+[2025-05-01 00:41:55] Pracownik R1004 Michał Recepcyjny został utworzony
+[2025-05-01 00:41:55] Pracownik R1004 Michał Recepcyjny dodany do działu Recepcja
+[2025-05-01 00:41:55] Pracownik R1005 Michalina Recepcyjna został utworzony
+[2025-05-01 00:41:55] Pracownik R1005 Michalina Recepcyjna dodany do działu Recepcja
+[2025-05-01 00:41:55] Pracownik P1006 Karol Sztrasburger został utworzony
+[2025-05-01 00:41:55] Pracownik P1006 Karol Sztrasburger dodany do działu Obliczenia
+[2025-05-01 00:41:55] Pracownik P1007 Mirek Nadzwyczajny został utworzony
+[2025-05-01 00:41:55] Pracownik P1007 Mirek Nadzwyczajny dodany do działu Architekci
+[2025-05-01 00:41:55] Pracownik P1008 Julia Kontrabas został utworzony
+[2025-05-01 00:41:55] Pracownik P1008 Julia Kontrabas dodany do działu Obliczenia
+[2025-05-01 00:41:55] Pracownik P1009 Róża Kolecka został utworzony
+[2025-05-01 00:41:55] Pracownik P1009 Róża Kolecka dodany do działu Architekci
+[2025-05-01 00:41:55] Pracownik P1010 Mateusz Szklarka został utworzony
+[2025-05-01 00:41:55] Pracownik P1010 Mateusz Szklarka dodany do działu Trenerzy
+[2025-05-01 00:41:55] Wyświetlenie pracowników działu Recepcja
+[2025-05-01 00:41:55] Wyświetlenie pracowników działu Obliczenia
+[2025-05-01 00:41:55] Wyświetlenie pracowników działu Architekci
+[2025-05-01 00:41:55] Wyświetlenie pracowników działu Trenerzy
+[2025-05-01 00:41:55] Zmiana nazwiska pracownika R1004 z Recepcyjny na Winogrono
+[2025-05-01 00:41:55] Dodano zespół M1001 do menagera M1001
+[2025-05-01 00:41:55] Pracownik P1006 Karol Sztrasburger dodany do zespołu Liczenie macierzy
+[2025-05-01 00:41:55] Pracownik P1008 Julia Kontrabas dodany do zespołu Liczenie macierzy
+[2025-05-01 00:41:55] Zespol Liczenie macierzy, manager: M1001 Karol Wiśniewski - pracownicy
+[2025-05-01 00:41:55] Dodano zespół M1000 do menagera M1000
+[2025-05-01 00:41:55] Pracownik R1005 Michalina Recepcyjna dodany do zespołu Rejestrowanie pracowników
+[2025-05-01 00:41:55] Pracownik R1004 Michał Winogrono dodany do zespołu Rejestrowanie pracowników
+[2025-05-01 00:41:55] Zespol Rejestrowanie pracowników, manager: M1000 Zbigniew Drzewski - pracownicy
+[2025-05-01 00:41:55] Dodano zespół M1002 do menagera M1002
+[2025-05-01 00:41:55] Pracownik P1007 Mirek Nadzwyczajny dodany do zespołu Wykonanie rysunków
+[2025-05-01 00:41:55] Pracownik P1009 Róża Kolecka dodany do zespołu Wykonanie rysunków
+[2025-05-01 00:41:55] Zespol Wykonanie rysunków, manager: M1002 Katarzyna Łęcka - pracownicy
+[2025-05-01 00:41:55] Dodano zespół M1003 do menagera M1003
+[2025-05-01 00:41:55] Pracownik P1010 Mateusz Szklarka dodany do zespołu Trening umysłu
+[2025-05-01 00:41:55] Zespol Trening umysłu, manager: M1003 Antoni Silny - pracownicy
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10000 Przygotowanie Stanowisk
+[2025-05-01 00:41:55] Zadanie Przygotowanie Stanowisk - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10001 Wykonanie obliczenie
+[2025-05-01 00:41:55] Zadanie Wykonanie obliczenie - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Liczenie macierzy do zadania ZAD10001
+[2025-05-01 00:41:55] Zadanie ZAD10001 dodane do menagera M1001
+[2025-05-01 00:41:55] Obiekt Praca utworzony pomyślnie
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10002 Przygotowanie Papieru
+[2025-05-01 00:41:55] Zadanie Przygotowanie Papieru - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10003 Naostrzenie Olowkow
+[2025-05-01 00:41:55] Zadanie Naostrzenie Olowkow - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10004 Rysowanie projekut
+[2025-05-01 00:41:55] Zadanie Rysowanie projekut - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Wykonanie rysunków do zadania ZAD10004
+[2025-05-01 00:41:55] Zadanie ZAD10004 dodane do menagera M1002
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10005 Sprzatanie
+[2025-05-01 00:41:55] Zadanie Sprzatanie - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Wykonanie rysunków do zadania ZAD10005
+[2025-05-01 00:41:55] Zadanie ZAD10005 dodane do menagera M1002
+[2025-05-01 00:41:55] Obiekt Praca utworzony pomyślnie
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10006 Trening umyslu
+[2025-05-01 00:41:55] Zadanie Trening umyslu - Wykonanie zadań pobudzających kreatywność i trzeźwość umysłu dla pracowników - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Trening umysłu do zadania ZAD10006
+[2025-05-01 00:41:55] Zadanie ZAD10006 dodane do menagera M1003
+[2025-05-01 00:41:55] Obiekt Praca utworzony pomyślnie
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10007 Rejestracja pracownikow
+[2025-05-01 00:41:55] Zadanie Rejestracja pracownikow - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Rejestrowanie pracowników do zadania ZAD10007
+[2025-05-01 00:41:55] Zadanie ZAD10007 dodane do menagera M1000
+[2025-05-01 00:41:55] Utworzono zadanie ZAD10008 Wylaczenie pradu
+[2025-05-01 00:41:55] Zadanie Wylaczenie pradu - Wyłączyć prąd w całym budynku - UTWORZONE dodane do mapy zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Rejestrowanie pracowników do zadania ZAD10008
+[2025-05-01 00:41:55] Zadanie ZAD10008 dodane do menagera M1000
+[2025-05-01 00:41:55] Obiekt Praca utworzony pomyślnie
+[2025-05-01 00:41:55] Rozpoczęto wykonywanie zadań z pracy PRA100
+[2025-05-01 00:41:55] Rozpoczęto wykonywanie zadań z pracy PRA103
+[2025-05-01 00:41:55] Brak zadań do wykonania w pracy :: PRA102 - PRACA WYKONANA
+[2025-05-01 00:41:55] Rozpoczęto wykonywanie zadań z pracy PRA101
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Wykonanie rysunków do zadania ZAD10002
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Liczenie macierzy do zadania ZAD10000
+[2025-05-01 00:41:55] Zadanie ZAD10002 dodane do menagera M1002
+[2025-05-01 00:41:55] Zadanie ZAD10000 dodane do menagera M1001
+[2025-05-01 00:41:55] Zadanie ZAD10005 posiada już zespół wykonujący - zmiana na ZES101
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10002
+[2025-05-01 00:41:55] Przypisano zespół Zespół: Wykonanie rysunków do zadania ZAD10003
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10000
+[2025-05-01 00:41:55] Zadanie ZAD10003 dodane do menagera M1002
+[2025-05-01 00:41:55] Wszyscy pracownicy zespołu ZES100 są zdrowi
+[2025-05-01 00:41:55] Zadanie ZAD10000 zmieniło status na rozpoczęte :: czas na wykonanie 5s
+[2025-05-01 00:41:55] Wszyscy pracownicy zespołu ZES102 są zdrowi
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10005
+[2025-05-01 00:41:55] Wszyscy pracownicy zespołu ZES101 są zdrowi
+[2025-05-01 00:41:55] Zadanie ZAD10002 zmieniło status na rozpoczęte :: czas na wykonanie 4s
+[2025-05-01 00:41:55] Zadanie ZAD10005 zmieniło status na rozpoczęte :: czas na wykonanie 6s
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10003
+[2025-05-01 00:41:55] Wszyscy pracownicy zespołu ZES102 są zdrowi
+[2025-05-01 00:41:55] Zadanie ZAD10003 zmieniło status na rozpoczęte :: czas na wykonanie 4s
+[2025-05-01 00:41:55] Zadanie ZAD10002 zostało wykonane przez zespół Wykonanie rysunków
+[2025-05-01 00:41:55] Zadanie ZAD10003 zostało wykonane przez zespół Wykonanie rysunków
+[2025-05-01 00:41:55] PPRACA PRA101 WYKONANA
+[2025-05-01 00:41:55] Zadanie ZAD10000 zostało wykonane przez zespół Liczenie macierzy
+[2025-05-01 00:41:55] PPRACA PRA100 WYKONANA
+[2025-05-01 00:41:55] Zadanie ZAD10005 zostało wykonane przez zespół Rejestrowanie pracowników
+[2025-05-01 00:41:55] PPRACA PRA103 WYKONANA
+[2025-05-01 00:41:55] Rozpoczęto wykonywanie wszystkich niewykonanych zadań
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10001
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10004
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10007
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10006
+[2025-05-01 00:41:55] Wszyscy pracownicy zespołu ZES100 są zdrowi
+[2025-05-01 00:41:55] Wszyscy pracownicy zespołu ZES101 są zdrowi
+[2025-05-01 00:41:55] Wszyscy pracownicy zespołu ZES103 są zdrowi
+[2025-05-01 00:41:55] Zwrócono mapę wszystkich zadań
+[2025-05-01 00:41:55] Zadanie ZAD10006 zmieniło status na rozpoczęte :: czas na wykonanie 4s
+[2025-05-01 00:41:55] Zadanie ZAD10007 zmieniło status na rozpoczęte :: czas na wykonanie 6s
+[2025-05-01 00:41:55] Zadanie ZAD10001 zmieniło status na rozpoczęte :: czas na wykonanie 6s
+[2025-05-01 00:41:55] Wszyscy pracownicy zespołu ZES102 są zdrowi
+[2025-05-01 00:41:55] Próba rozpoczęcia zadania ZAD10008
+[2025-05-01 00:41:55] Zadanie ZAD10004 zmieniło status na rozpoczęte :: czas na wykonanie 5s
+[2025-05-01 00:41:55] Zadanie ZAD10008 nie zatwierdzone
+[2025-05-01 00:41:55] Zadanie ZAD10006 zostało wykonane przez zespół Trening umysłu
+[2025-05-01 00:41:55] Zadanie ZAD10004 zostało wykonane przez zespół Wykonanie rysunków
+[2025-05-01 00:41:55] Zadanie ZAD10007 zostało wykonane przez zespół Rejestrowanie pracowników
+[2025-05-01 00:41:55] Zadanie ZAD10001 zostało wykonane przez zespół Liczenie macierzy
+[2025-05-01 00:41:55] Wyświetlenie pracowników działu Obliczenia
+[2025-05-01 00:41:55] Wyszukiwanie zadania ukończone pozytywnie :: zadanie -> ZAD10001
